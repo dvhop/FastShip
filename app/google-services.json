@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "212288722654",
+    "firebase_url": "https://fship-dh2110.firebaseio.com",
+    "project_id": "fship-dh2110",
+    "storage_bucket": "fship-dh2110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212288722654:android:4841577eb528c480",
+        "android_client_info": {
+          "package_name": "com.example.dinhhop_pc.fship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212288722654-oas4s4bqvdej1smt1pf0r75nl88lp798.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOhzIBEpI668JzR2iZy7YbVgZ3PT64Tek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
